@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("viewDidLoad() called")
+        print("viewDidLoad() was called")
         view.backgroundColor = UIColor.randomColor()
     }
     
